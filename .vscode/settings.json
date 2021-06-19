@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/haloom/.local/share/virtualenvs/django-agTHZW3H/bin/python",
+    "python.formatting.provider": "black"
+}
