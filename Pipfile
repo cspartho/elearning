@@ -10,6 +10,7 @@ django-braces = "*"
 django-embed-video = "*"
 channels = "*"
 channels-redis = "*"
+djangorestframework = "*"
 
 [dev-packages]
 

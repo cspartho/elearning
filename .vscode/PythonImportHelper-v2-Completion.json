@@ -1,0 +1,1709 @@
+[
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "apps",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncWebsocketConsumer",
+        "importPath": "channels.generic.websocket",
+        "description": "channels.generic.websocket",
+        "isExtraImport": true,
+        "detail": "channels.generic.websocket",
+        "documentation": {}
+    },
+    {
+        "label": "async_to_sync",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "re_path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "django.shortcuts",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseForbidden",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "AuthMiddlewareStack",
+        "importPath": "channels.auth",
+        "description": "channels.auth",
+        "isExtraImport": true,
+        "detail": "channels.auth",
+        "documentation": {}
+    },
+    {
+        "label": "ProtocolTypeRouter",
+        "importPath": "channels.routing",
+        "description": "channels.routing",
+        "isExtraImport": true,
+        "detail": "channels.routing",
+        "documentation": {}
+    },
+    {
+        "label": "URLRouter",
+        "importPath": "channels.routing",
+        "description": "channels.routing",
+        "isExtraImport": true,
+        "detail": "channels.routing",
+        "documentation": {}
+    },
+    {
+        "label": "chat.routing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "chat.routing",
+        "description": "chat.routing",
+        "detail": "chat.routing",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "importPath": "django.conf.global_settings",
+        "description": "django.conf.global_settings",
+        "isExtraImport": true,
+        "detail": "django.conf.global_settings",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "CourseListView",
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "isExtraImport": true,
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "ContentCreateUpdateView",
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "isExtraImport": true,
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "ContentDeleteView",
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "isExtraImport": true,
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "ContentOrderView",
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "isExtraImport": true,
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "CourseListView",
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "isExtraImport": true,
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "CourseModuleUpdateView",
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "isExtraImport": true,
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "ModuleContentListView",
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "isExtraImport": true,
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "ModuleOrderView",
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "isExtraImport": true,
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "CourseEnrollView",
+        "importPath": "courses.api.views",
+        "description": "courses.api.views",
+        "isExtraImport": true,
+        "detail": "courses.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "courses.fields",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "courses.fields",
+        "description": "courses.fields",
+        "detail": "courses.fields",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectDoesNotExist",
+        "importPath": "django.core.exceptions",
+        "description": "django.core.exceptions",
+        "isExtraImport": true,
+        "detail": "django.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "inlineformset_factory",
+        "importPath": "django.forms.models",
+        "description": "django.forms.models",
+        "isExtraImport": true,
+        "detail": "django.forms.models",
+        "documentation": {}
+    },
+    {
+        "label": "modelform_factory",
+        "importPath": "django.forms.models",
+        "description": "django.forms.models",
+        "isExtraImport": true,
+        "detail": "django.forms.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "GenericForeignKey",
+        "importPath": "django.contrib.contenttypes.fields",
+        "description": "django.contrib.contenttypes.fields",
+        "isExtraImport": true,
+        "detail": "django.contrib.contenttypes.fields",
+        "documentation": {}
+    },
+    {
+        "label": "ContentType",
+        "importPath": "django.contrib.contenttypes.models",
+        "description": "django.contrib.contenttypes.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.contenttypes.models",
+        "documentation": {}
+    },
+    {
+        "label": "render_to_string",
+        "importPath": "django.template.loader",
+        "description": "django.template.loader",
+        "isExtraImport": true,
+        "detail": "django.template.loader",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequiredMixin",
+        "importPath": "django.contrib.auth.mixins",
+        "description": "django.contrib.auth.mixins",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "PermissionRequiredMixin",
+        "importPath": "django.contrib.auth.mixins",
+        "description": "django.contrib.auth.mixins",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequiredMixin",
+        "importPath": "django.contrib.auth.mixins",
+        "description": "django.contrib.auth.mixins",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "Count",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "DetailView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "ListView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "FormView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "ListView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "DetailView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateResponseMixin",
+        "importPath": "django.views.generic.base",
+        "description": "django.views.generic.base",
+        "isExtraImport": true,
+        "detail": "django.views.generic.base",
+        "documentation": {}
+    },
+    {
+        "label": "View",
+        "importPath": "django.views.generic.base",
+        "description": "django.views.generic.base",
+        "isExtraImport": true,
+        "detail": "django.views.generic.base",
+        "documentation": {}
+    },
+    {
+        "label": "CsrfExemptMixin",
+        "importPath": "braces.views",
+        "description": "braces.views",
+        "isExtraImport": true,
+        "detail": "braces.views",
+        "documentation": {}
+    },
+    {
+        "label": "JsonRequestResponseMixin",
+        "importPath": "braces.views",
+        "description": "braces.views",
+        "isExtraImport": true,
+        "detail": "braces.views",
+        "documentation": {}
+    },
+    {
+        "label": "CourseEnrollForm",
+        "importPath": "students.forms",
+        "description": "students.forms",
+        "isExtraImport": true,
+        "detail": "students.forms",
+        "documentation": {}
+    },
+    {
+        "label": "CourseEnrollForm",
+        "importPath": "students.forms",
+        "description": "students.forms",
+        "isExtraImport": true,
+        "detail": "students.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Course",
+        "importPath": "courses.models",
+        "description": "courses.models",
+        "isExtraImport": true,
+        "detail": "courses.models",
+        "documentation": {}
+    },
+    {
+        "label": "Course",
+        "importPath": "courses.models",
+        "description": "courses.models",
+        "isExtraImport": true,
+        "detail": "courses.models",
+        "documentation": {}
+    },
+    {
+        "label": "StudentEnrollCourseView",
+        "importPath": "students.views",
+        "description": "students.views",
+        "isExtraImport": true,
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "ChatConfig",
+        "kind": 6,
+        "importPath": "chat.apps",
+        "description": "chat.apps",
+        "peekOfCode": "class ChatConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'chat'",
+        "detail": "chat.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ChatConsumer",
+        "kind": 6,
+        "importPath": "chat.consumers",
+        "description": "chat.consumers",
+        "peekOfCode": "class ChatConsumer(AsyncWebsocketConsumer):\n    async def connect(self):\n        self.user = self.scope['user']\n        self.id = self.scope['url_route']['kwargs']['course_id']\n        self.room_group_name = 'chat_%s' % self.id\n        # join room group\n        await self.channel_layer.group_add(\n            self.room_group_name,\n            self.channel_name\n        )",
+        "detail": "chat.consumers",
+        "documentation": {}
+    },
+    {
+        "label": "websocket_urlpatterns",
+        "kind": 5,
+        "importPath": "chat.routing",
+        "description": "chat.routing",
+        "peekOfCode": "websocket_urlpatterns = [\n    re_path(r'ws/chat/room/(?P<course_id>\\d+)/$', consumers.ChatConsumer.as_asgi()),\n]",
+        "detail": "chat.routing",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "chat.urls",
+        "description": "chat.urls",
+        "peekOfCode": "app_name = 'chat'\nurlpatterns = [\n    path('room/<int:course_id>/', views.course_chat_room,\n         name='course_chat_room'),\n]",
+        "detail": "chat.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "chat.urls",
+        "description": "chat.urls",
+        "peekOfCode": "urlpatterns = [\n    path('room/<int:course_id>/', views.course_chat_room,\n         name='course_chat_room'),\n]",
+        "detail": "chat.urls",
+        "documentation": {}
+    },
+    {
+        "label": "course_chat_room",
+        "kind": 2,
+        "importPath": "chat.views",
+        "description": "chat.views",
+        "peekOfCode": "def course_chat_room(request, course_id):\n    try:\n        # retrieve course  with given id joined by the current user\n        course = request.user.courses_joined.get(id=course_id)\n    except:\n        # user is not a student of the course or course does not exist\n        return HttpResponseForbidden()\n    return render(request, 'chat/room.html', {'course': course})",
+        "detail": "chat.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "config.asgi",
+        "description": "config.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "config.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "config.routing",
+        "description": "config.routing",
+        "peekOfCode": "application = ProtocolTypeRouter({\n    'websocket': AuthMiddlewareStack(\n        URLRouter(\n            chat.routing.websocket_urlpatterns\n        )\n    ),\n})",
+        "detail": "config.routing",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = \"django-insecure-qyg-yinvsy2tl(=-rlnsb4u33j3mvsm4ufmmt)3#9%w8-odg78\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "SECRET_KEY = \"django-insecure-qyg-yinvsy2tl(=-rlnsb4u33j3mvsm4ufmmt)3#9%w8-odg78\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"courses.apps.CoursesConfig\",",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"courses.apps.CoursesConfig\",\n    \"students.apps.StudentsConfig\",\n    \"embed_video\",",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]\nROOT_URLCONF = \"config.urls\"",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "ROOT_URLCONF = \"config.urls\"\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "WSGI_APPLICATION = \"config.wsgi.application\"\n# Database\n# https://docs.djangoproject.com/en/3.2/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "DATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\",\n    },",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "LANGUAGE_CODE = \"en-us\"\nTIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_ROOT = os.path.join(BASE_DIR, \"staticfiles\")\nSTATIC_URL = \"/static/\"\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "TIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_ROOT = os.path.join(BASE_DIR, \"staticfiles\")\nSTATIC_URL = \"/static/\"\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\n# Default primary key field type",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_ROOT = os.path.join(BASE_DIR, \"staticfiles\")\nSTATIC_URL = \"/static/\"\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_ROOT = os.path.join(BASE_DIR, \"staticfiles\")\nSTATIC_URL = \"/static/\"\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_ROOT = os.path.join(BASE_DIR, \"staticfiles\")\nSTATIC_URL = \"/static/\"\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nMEDIA_URL = \"/media/\"",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "STATIC_ROOT = os.path.join(BASE_DIR, \"staticfiles\")\nSTATIC_URL = \"/static/\"\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media/\")\nLOGIN_REDIRECT_URL = reverse_lazy(\"student_course_list\")\nASGI_APPLICATION = \"config.routing.application\"",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "STATIC_URL = \"/static/\"\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media/\")\nLOGIN_REDIRECT_URL = reverse_lazy(\"student_course_list\")\nASGI_APPLICATION = \"config.routing.application\"\nCHANNEL_LAYERS = {",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "STATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media/\")\nLOGIN_REDIRECT_URL = reverse_lazy(\"student_course_list\")\nASGI_APPLICATION = \"config.routing.application\"\nCHANNEL_LAYERS = {\n    \"default\": {",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media/\")\nLOGIN_REDIRECT_URL = reverse_lazy(\"student_course_list\")\nASGI_APPLICATION = \"config.routing.application\"\nCHANNEL_LAYERS = {\n    \"default\": {\n        \"BACKEND\": \"channels_redis.core.RedisChannelLayer\",\n        \"CONFIG\": {\n            \"hosts\": [(\"127.0.0.1\", 6379)],",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "MEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media/\")\nLOGIN_REDIRECT_URL = reverse_lazy(\"student_course_list\")\nASGI_APPLICATION = \"config.routing.application\"\nCHANNEL_LAYERS = {\n    \"default\": {\n        \"BACKEND\": \"channels_redis.core.RedisChannelLayer\",\n        \"CONFIG\": {\n            \"hosts\": [(\"127.0.0.1\", 6379)],\n        },",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, \"media/\")\nLOGIN_REDIRECT_URL = reverse_lazy(\"student_course_list\")\nASGI_APPLICATION = \"config.routing.application\"\nCHANNEL_LAYERS = {\n    \"default\": {\n        \"BACKEND\": \"channels_redis.core.RedisChannelLayer\",\n        \"CONFIG\": {\n            \"hosts\": [(\"127.0.0.1\", 6379)],\n        },\n    },",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "LOGIN_REDIRECT_URL = reverse_lazy(\"student_course_list\")\nASGI_APPLICATION = \"config.routing.application\"\nCHANNEL_LAYERS = {\n    \"default\": {\n        \"BACKEND\": \"channels_redis.core.RedisChannelLayer\",\n        \"CONFIG\": {\n            \"hosts\": [(\"127.0.0.1\", 6379)],\n        },\n    },\n}",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ASGI_APPLICATION",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "ASGI_APPLICATION = \"config.routing.application\"\nCHANNEL_LAYERS = {\n    \"default\": {\n        \"BACKEND\": \"channels_redis.core.RedisChannelLayer\",\n        \"CONFIG\": {\n            \"hosts\": [(\"127.0.0.1\", 6379)],\n        },\n    },\n}\nREST_FRAMEWORK = {",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CHANNEL_LAYERS",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "CHANNEL_LAYERS = {\n    \"default\": {\n        \"BACKEND\": \"channels_redis.core.RedisChannelLayer\",\n        \"CONFIG\": {\n            \"hosts\": [(\"127.0.0.1\", 6379)],\n        },\n    },\n}\nREST_FRAMEWORK = {\n    \"DEFAULT_PERMISSION_CLASSES\": [",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    \"DEFAULT_PERMISSION_CLASSES\": [\n        \"rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly\"\n    ]\n}",
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "config.urls",
+        "description": "config.urls",
+        "peekOfCode": "urlpatterns = [\n    path('accounts/login/',auth_views.LoginView.as_view(),name='login'),\n    path('accounts/loggedout/',auth_views.LogoutView.as_view(),name='logout'),\n    path('admin/', admin.site.urls),\n    path('course/',include('courses.urls')),\n    path('',CourseListView.as_view(),name='course_list'),\n    path('students/',include('students.urls')),\n    path('chat/', include('chat.urls', namespace='chat')),\n    path('api/', include('courses.api.urls', namespace='api')),\n]",
+        "detail": "config.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "config.wsgi",
+        "description": "config.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "config.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "SubjectSerializer",
+        "kind": 6,
+        "importPath": "courses.api.serializers",
+        "description": "courses.api.serializers",
+        "peekOfCode": "class SubjectSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Subject \n        fields = ['id','title','slug']\nclass ModuleSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Module\n        fields = ['order','title','description']\nclass CourseSerializer(serializers.ModelSerializer):\n    modules =ModuleSerializer(many=True,read_only=True)",
+        "detail": "courses.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ModuleSerializer",
+        "kind": 6,
+        "importPath": "courses.api.serializers",
+        "description": "courses.api.serializers",
+        "peekOfCode": "class ModuleSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Module\n        fields = ['order','title','description']\nclass CourseSerializer(serializers.ModelSerializer):\n    modules =ModuleSerializer(many=True,read_only=True)\n    class Meta:\n        model = Course \n        fields = ['id','subject','title','slug','overview','created','owner','modules']",
+        "detail": "courses.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CourseSerializer",
+        "kind": 6,
+        "importPath": "courses.api.serializers",
+        "description": "courses.api.serializers",
+        "peekOfCode": "class CourseSerializer(serializers.ModelSerializer):\n    modules =ModuleSerializer(many=True,read_only=True)\n    class Meta:\n        model = Course \n        fields = ['id','subject','title','slug','overview','created','owner','modules']",
+        "detail": "courses.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "courses.api.urls",
+        "description": "courses.api.urls",
+        "peekOfCode": "app_name = \"courses\"\nurlpatterns = [\n    path(\"subjects/\", views.SubjectListView.as_view(), name=\"subject_list\"),\n    path(\"subjects/<pk>/\", views.SubjectDetailView.as_view(), name=\"subject_detail\"),\n    path('courses/<pk>/enroll/',CourseEnrollView.as_view(),name='course_enroll'),\n]",
+        "detail": "courses.api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "courses.api.urls",
+        "description": "courses.api.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"subjects/\", views.SubjectListView.as_view(), name=\"subject_list\"),\n    path(\"subjects/<pk>/\", views.SubjectDetailView.as_view(), name=\"subject_detail\"),\n    path('courses/<pk>/enroll/',CourseEnrollView.as_view(),name='course_enroll'),\n]",
+        "detail": "courses.api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "SubjectListView",
+        "kind": 6,
+        "importPath": "courses.api.views",
+        "description": "courses.api.views",
+        "peekOfCode": "class SubjectListView(generics.ListAPIView):\n    queryset = Subject.objects.all()\n    serializer_class = SubjectSerializer\nclass SubjectDetailView(generics.RetrieveAPIView):\n    queryset = Subject.objects.all()\n    serializer_class = SubjectSerializer\nclass CourseEnrollView(APIView):\n    def post(self,request,pk,format=None):\n        course = get_object_or_404(Course,pk=pk)\n        course.students.add(request.user)",
+        "detail": "courses.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "SubjectDetailView",
+        "kind": 6,
+        "importPath": "courses.api.views",
+        "description": "courses.api.views",
+        "peekOfCode": "class SubjectDetailView(generics.RetrieveAPIView):\n    queryset = Subject.objects.all()\n    serializer_class = SubjectSerializer\nclass CourseEnrollView(APIView):\n    def post(self,request,pk,format=None):\n        course = get_object_or_404(Course,pk=pk)\n        course.students.add(request.user)\n        return Response({'enrolled':True})",
+        "detail": "courses.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "CourseEnrollView",
+        "kind": 6,
+        "importPath": "courses.api.views",
+        "description": "courses.api.views",
+        "peekOfCode": "class CourseEnrollView(APIView):\n    def post(self,request,pk,format=None):\n        course = get_object_or_404(Course,pk=pk)\n        course.students.add(request.user)\n        return Response({'enrolled':True})",
+        "detail": "courses.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "courses.migrations.0001_initial",
+        "description": "courses.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Course',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "courses.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "courses.migrations.0002_content_file_image_text_video",
+        "description": "courses.migrations.0002_content_file_image_text_video",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('contenttypes', '0002_remove_content_type_name'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('courses', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Video',\n            fields=[",
+        "detail": "courses.migrations.0002_content_file_image_text_video",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "courses.migrations.0003_auto_20210615_1912",
+        "description": "courses.migrations.0003_auto_20210615_1912",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('courses', '0002_content_file_image_text_video'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='content',\n            options={'ordering': ['order']},\n        ),\n        migrations.AlterModelOptions(",
+        "detail": "courses.migrations.0003_auto_20210615_1912",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "courses.migrations.0004_course_students",
+        "description": "courses.migrations.0004_course_students",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('courses', '0003_auto_20210615_1912'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='course',\n            name='students',\n            field=models.ManyToManyField(blank=True, related_name='courses_joined', to=settings.AUTH_USER_MODEL),",
+        "detail": "courses.migrations.0004_course_students",
+        "documentation": {}
+    },
+    {
+        "label": "model_name",
+        "kind": 2,
+        "importPath": "courses.templatetags.course",
+        "description": "courses.templatetags.course",
+        "peekOfCode": "def model_name(obj):\n    try:\n        return obj._meta.model_name\n    except AttributeError:\n        return None",
+        "detail": "courses.templatetags.course",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 5,
+        "importPath": "courses.templatetags.course",
+        "description": "courses.templatetags.course",
+        "peekOfCode": "register = template.Library()\n@register.filter\ndef model_name(obj):\n    try:\n        return obj._meta.model_name\n    except AttributeError:\n        return None",
+        "detail": "courses.templatetags.course",
+        "documentation": {}
+    },
+    {
+        "label": "SubjectAdmin",
+        "kind": 6,
+        "importPath": "courses.admin",
+        "description": "courses.admin",
+        "peekOfCode": "class SubjectAdmin(admin.ModelAdmin):\n    list_display =['title','slug']\n    prepopulated_fields = {'slug': ('title',)}\nclass ModuleInline(admin.StackedInline):\n    model = Module\n@admin.register(Course)\nclass CourseAdmin(admin.ModelAdmin):\n    list_display =['title','subject','created',]\n    list_filter = ['created','subject',]\n    search_fields=['title','overview',]",
+        "detail": "courses.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ModuleInline",
+        "kind": 6,
+        "importPath": "courses.admin",
+        "description": "courses.admin",
+        "peekOfCode": "class ModuleInline(admin.StackedInline):\n    model = Module\n@admin.register(Course)\nclass CourseAdmin(admin.ModelAdmin):\n    list_display =['title','subject','created',]\n    list_filter = ['created','subject',]\n    search_fields=['title','overview',]\n    prepopulated_fields = {'slug': ('title',)}\n    inlines =[ModuleInline]",
+        "detail": "courses.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CourseAdmin",
+        "kind": 6,
+        "importPath": "courses.admin",
+        "description": "courses.admin",
+        "peekOfCode": "class CourseAdmin(admin.ModelAdmin):\n    list_display =['title','subject','created',]\n    list_filter = ['created','subject',]\n    search_fields=['title','overview',]\n    prepopulated_fields = {'slug': ('title',)}\n    inlines =[ModuleInline]",
+        "detail": "courses.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CoursesConfig",
+        "kind": 6,
+        "importPath": "courses.apps",
+        "description": "courses.apps",
+        "peekOfCode": "class CoursesConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'courses'",
+        "detail": "courses.apps",
+        "documentation": {}
+    },
+    {
+        "label": "OrderField",
+        "kind": 6,
+        "importPath": "courses.fields",
+        "description": "courses.fields",
+        "peekOfCode": "class OrderField(models.PositiveIntegerField):\n    def __init__(self, for_fields=None, *args, **kwargs):\n        self.for_fields = for_fields\n        super().__init__(*args, **kwargs)\n    def pre_save(self, model_instance, add):\n        if getattr(model_instance, self.attname) is None:\n            # no current value\n            try:\n                qs = self.model.objects.all()\n                if self.for_fields:",
+        "detail": "courses.fields",
+        "documentation": {}
+    },
+    {
+        "label": "ModuleFormSet",
+        "kind": 5,
+        "importPath": "courses.forms",
+        "description": "courses.forms",
+        "peekOfCode": "ModuleFormSet = inlineformset_factory(Course,Module,fields=['title','description'],extra=2,can_delete=True)",
+        "detail": "courses.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Subject",
+        "kind": 6,
+        "importPath": "courses.models",
+        "description": "courses.models",
+        "peekOfCode": "class Subject(models.Model):\n    slug = models.SlugField(max_length=200, unique=True)\n    title = models.CharField(max_length=200)\n    class Meta:\n        ordering=['title']\n    def __str__(self):\n        return self.title\nclass Course(models.Model):\n    slug = models.SlugField(max_length=200, unique=True)\n    owner = models.ForeignKey(User,related_name='courses_created',on_delete=models.CASCADE)",
+        "detail": "courses.models",
+        "documentation": {}
+    },
+    {
+        "label": "Course",
+        "kind": 6,
+        "importPath": "courses.models",
+        "description": "courses.models",
+        "peekOfCode": "class Course(models.Model):\n    slug = models.SlugField(max_length=200, unique=True)\n    owner = models.ForeignKey(User,related_name='courses_created',on_delete=models.CASCADE)\n    subject = models.ForeignKey(Subject,related_name='courses',on_delete=models.CASCADE)\n    title = models.CharField(max_length=200)\n    overview = models.TextField()\n    created = models.DateTimeField(auto_now_add=True)\n    students = models.ManyToManyField(User,related_name='courses_joined',blank=True)\n    class Meta:\n        ordering = ['-created']",
+        "detail": "courses.models",
+        "documentation": {}
+    },
+    {
+        "label": "Module",
+        "kind": 6,
+        "importPath": "courses.models",
+        "description": "courses.models",
+        "peekOfCode": "class Module(models.Model):\n    course = models.ForeignKey(Course,related_name='modules',on_delete=models.CASCADE)\n    title = models.CharField(max_length=200)\n    description = models.TextField(blank=True)\n    order = OrderField(blank=True,for_fields=['course'])\n    class Meta:\n        ordering = ['order']\n    def __str__(self):\n        return f'{self.order}. {self.title}'\nclass Content(models.Model):",
+        "detail": "courses.models",
+        "documentation": {}
+    },
+    {
+        "label": "Content",
+        "kind": 6,
+        "importPath": "courses.models",
+        "description": "courses.models",
+        "peekOfCode": "class Content(models.Model):\n    module = models.ForeignKey(Module,related_name='contents', on_delete=models.CASCADE)\n    content_type=models.ForeignKey(ContentType,on_delete=models.CASCADE)\n    object_id = models.PositiveIntegerField()\n    item = GenericForeignKey('content_type','object_id')\n    content_type = models.ForeignKey(ContentType,on_delete=models.CASCADE,limit_choices_to={'model_in':('text','video','image','file')})\n    order = OrderField(blank=True,for_fields=['module'])\n    class Meta:\n        ordering = ['order']\nclass ItemBase(models.Model):",
+        "detail": "courses.models",
+        "documentation": {}
+    },
+    {
+        "label": "ItemBase",
+        "kind": 6,
+        "importPath": "courses.models",
+        "description": "courses.models",
+        "peekOfCode": "class ItemBase(models.Model):\n    owner =models.ForeignKey(User,related_name='%(class)s_related',on_delete=models.CASCADE)\n    title =models.CharField(max_length=250)\n    created = models.DateTimeField(auto_now_add=True)\n    updated = models.DateTimeField(auto_now=True)\n    class Meta:\n        abstract = True \n    def __str__(self):\n        return self.title \n    def render(self):",
+        "detail": "courses.models",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "kind": 6,
+        "importPath": "courses.models",
+        "description": "courses.models",
+        "peekOfCode": "class Text(ItemBase):\n    content = models.TextField()\nclass File(ItemBase):\n    file = models.FileField(upload_to='files')\nclass Image(ItemBase):\n    file = models.FileField(upload_to='images')\nclass Video(ItemBase):\n    url = models.URLField()",
+        "detail": "courses.models",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "kind": 6,
+        "importPath": "courses.models",
+        "description": "courses.models",
+        "peekOfCode": "class File(ItemBase):\n    file = models.FileField(upload_to='files')\nclass Image(ItemBase):\n    file = models.FileField(upload_to='images')\nclass Video(ItemBase):\n    url = models.URLField()",
+        "detail": "courses.models",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "kind": 6,
+        "importPath": "courses.models",
+        "description": "courses.models",
+        "peekOfCode": "class Image(ItemBase):\n    file = models.FileField(upload_to='images')\nclass Video(ItemBase):\n    url = models.URLField()",
+        "detail": "courses.models",
+        "documentation": {}
+    },
+    {
+        "label": "Video",
+        "kind": 6,
+        "importPath": "courses.models",
+        "description": "courses.models",
+        "peekOfCode": "class Video(ItemBase):\n    url = models.URLField()",
+        "detail": "courses.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "courses.urls",
+        "description": "courses.urls",
+        "peekOfCode": "urlpatterns = [\n    path('mine/',ManageCourseListView.as_view(),name='manage_course_list'),\n    path('create/',CourseCreateView.as_view(),name='course_create'),\n    path('<pk>/edit/',CourseUpdateView.as_view(),name='course_edit'),\n    path('<pk>/delete/',CourseDeleteView.as_view(),name='course_delete'),\n    path('<pk>/module/',CourseModuleUpdateView.as_view(),name='course_module_update'),\n    path('module/<int:module_id>/content/<model_name>/create/',ContentCreateUpdateView.as_view(),name='module_content_create'),\n    path('module/<int:module_id>/content/<model_name>/<id>/',ContentCreateUpdateView.as_view(),name='module_content_update'),\n    path('content/<int:id>/delete/',ContentDeleteView.as_view(),name='module_content_delete'),\n    path('module/<int:module_id>/',ModuleContentListView.as_view(),name='module_content_list'),",
+        "detail": "courses.urls",
+        "documentation": {}
+    },
+    {
+        "label": "OwnerMixin",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class OwnerMixin(object):\n    def get_queryset(self):\n        qs = super().get_queryset()\n        return qs.filter(owner=self.request.user)\nclass OwnerEditMixin(object):\n    def form_valid(self, form):\n        form.instance.owner = self.request.user\n        return super().form_valid(form)\nclass OwnerCourseMixin(OwnerMixin, LoginRequiredMixin, PermissionRequiredMixin):\n    model = Course",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "OwnerEditMixin",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class OwnerEditMixin(object):\n    def form_valid(self, form):\n        form.instance.owner = self.request.user\n        return super().form_valid(form)\nclass OwnerCourseMixin(OwnerMixin, LoginRequiredMixin, PermissionRequiredMixin):\n    model = Course\n    fields = [\"subject\", \"title\", \"slug\", \"overview\"]\n    success_url = reverse_lazy(\"manage_course_list\")\nclass OwnerCourseEditMixin(OwnerCourseMixin, OwnerEditMixin):\n    template_name = \"courses/manage/course/form.html\"",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "OwnerCourseMixin",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class OwnerCourseMixin(OwnerMixin, LoginRequiredMixin, PermissionRequiredMixin):\n    model = Course\n    fields = [\"subject\", \"title\", \"slug\", \"overview\"]\n    success_url = reverse_lazy(\"manage_course_list\")\nclass OwnerCourseEditMixin(OwnerCourseMixin, OwnerEditMixin):\n    template_name = \"courses/manage/course/form.html\"\nclass ManageCourseListView(OwnerCourseMixin, ListView):\n    template_name = \"courses/manage/course/list.html\"\n    permission_required = \"courses.view_course\"\nclass CourseCreateView(OwnerCourseEditMixin, CreateView):",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "OwnerCourseEditMixin",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class OwnerCourseEditMixin(OwnerCourseMixin, OwnerEditMixin):\n    template_name = \"courses/manage/course/form.html\"\nclass ManageCourseListView(OwnerCourseMixin, ListView):\n    template_name = \"courses/manage/course/list.html\"\n    permission_required = \"courses.view_course\"\nclass CourseCreateView(OwnerCourseEditMixin, CreateView):\n    permission_required = \"courses.add_course\"\nclass CourseUpdateView(OwnerCourseEditMixin, UpdateView):\n    permission_required = \"courses.change_course\"\nclass CourseDeleteView(OwnerCourseMixin, DeleteView):",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "ManageCourseListView",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class ManageCourseListView(OwnerCourseMixin, ListView):\n    template_name = \"courses/manage/course/list.html\"\n    permission_required = \"courses.view_course\"\nclass CourseCreateView(OwnerCourseEditMixin, CreateView):\n    permission_required = \"courses.add_course\"\nclass CourseUpdateView(OwnerCourseEditMixin, UpdateView):\n    permission_required = \"courses.change_course\"\nclass CourseDeleteView(OwnerCourseMixin, DeleteView):\n    template_name = \"courses/manage/course/delete.html\"\n    permission_required = \"courses.delete_course\"",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "CourseCreateView",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class CourseCreateView(OwnerCourseEditMixin, CreateView):\n    permission_required = \"courses.add_course\"\nclass CourseUpdateView(OwnerCourseEditMixin, UpdateView):\n    permission_required = \"courses.change_course\"\nclass CourseDeleteView(OwnerCourseMixin, DeleteView):\n    template_name = \"courses/manage/course/delete.html\"\n    permission_required = \"courses.delete_course\"\nclass CourseModuleUpdateView(TemplateResponseMixin, View):\n    template_name = \"courses/manage/module/formset.html\"\n    course = None",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "CourseUpdateView",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class CourseUpdateView(OwnerCourseEditMixin, UpdateView):\n    permission_required = \"courses.change_course\"\nclass CourseDeleteView(OwnerCourseMixin, DeleteView):\n    template_name = \"courses/manage/course/delete.html\"\n    permission_required = \"courses.delete_course\"\nclass CourseModuleUpdateView(TemplateResponseMixin, View):\n    template_name = \"courses/manage/module/formset.html\"\n    course = None\n    def get_formset(self, data=None):\n        return ModuleFormSet(instance=self.course, data=data)",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "CourseDeleteView",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class CourseDeleteView(OwnerCourseMixin, DeleteView):\n    template_name = \"courses/manage/course/delete.html\"\n    permission_required = \"courses.delete_course\"\nclass CourseModuleUpdateView(TemplateResponseMixin, View):\n    template_name = \"courses/manage/module/formset.html\"\n    course = None\n    def get_formset(self, data=None):\n        return ModuleFormSet(instance=self.course, data=data)\n    def dispatch(self, request, pk):\n        self.course = get_object_or_404(Course, id=pk, owner=request.user)",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "CourseModuleUpdateView",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class CourseModuleUpdateView(TemplateResponseMixin, View):\n    template_name = \"courses/manage/module/formset.html\"\n    course = None\n    def get_formset(self, data=None):\n        return ModuleFormSet(instance=self.course, data=data)\n    def dispatch(self, request, pk):\n        self.course = get_object_or_404(Course, id=pk, owner=request.user)\n        return super().dispatch(request, pk)\n    def get(self, request, *args, **kwargs):\n        formset = self.get_formset()",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "ContentCreateUpdateView",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class ContentCreateUpdateView(TemplateResponseMixin, View):\n    module = None\n    model = None\n    obj = None\n    template_name = \"courses/manage/content/form.html\"\n    def get_model(self, model_name):\n        if model_name in [\"text\", \"video\", \"image\", \"file\"]:\n            return apps.get_model(app_label=\"courses\", model_name=model_name)\n        return None\n    def get_form(self, model, *args, **kwargs):",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "ContentDeleteView",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class ContentDeleteView(View):\n    def post(self, request, id):\n        content = get_object_or_404(Content, id=id, module__course__owner=request.user)\n        module = content.module\n        content.item.delete()\n        content.delete()\n        return redirect(\"module_content_list\", module.id)\nclass ModuleContentListView(TemplateResponseMixin, View):\n    template_name = \"courses/manage/module/content_list.html\"\n    def get(self, request, module_id):",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "ModuleContentListView",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class ModuleContentListView(TemplateResponseMixin, View):\n    template_name = \"courses/manage/module/content_list.html\"\n    def get(self, request, module_id):\n        module = get_object_or_404(Module, id=module_id, course__owner=request.user)\n        return self.render_to_response({\"module\": module})\nclass ModuleOrderView(CsrfExemptMixin, JsonRequestResponseMixin, View):\n    def post(self, request):\n        for id, order in self.request_json.items():\n            Module.objects.filter(id=id, course__owner=request.user).update(order=order)\n        return self.render_json_response({\"saved\": \"OK\"})",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "ModuleOrderView",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class ModuleOrderView(CsrfExemptMixin, JsonRequestResponseMixin, View):\n    def post(self, request):\n        for id, order in self.request_json.items():\n            Module.objects.filter(id=id, course__owner=request.user).update(order=order)\n        return self.render_json_response({\"saved\": \"OK\"})\nclass ContentOrderView(CsrfExemptMixin, JsonRequestResponseMixin, View):\n    def post(self, request):\n        for id, order in self.request_json.items():\n            Content.objects.filter(id=id, module__course__owner=request.user).update(order=order)\n        return self.render_json_response({\"saved\": \"OK\"})",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "ContentOrderView",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class ContentOrderView(CsrfExemptMixin, JsonRequestResponseMixin, View):\n    def post(self, request):\n        for id, order in self.request_json.items():\n            Content.objects.filter(id=id, module__course__owner=request.user).update(order=order)\n        return self.render_json_response({\"saved\": \"OK\"})\nclass CourseListView(TemplateResponseMixin,View):\n    model = Course\n    template_name = 'courses/course/list.html'\n    def get(self,request,subject=None):\n        subjects = Subject.objects.annotate(total_course=Count('courses'))",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "CourseListView",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class CourseListView(TemplateResponseMixin,View):\n    model = Course\n    template_name = 'courses/course/list.html'\n    def get(self,request,subject=None):\n        subjects = Subject.objects.annotate(total_course=Count('courses'))\n        courses = Course.objects.annotate(total_modules=Count('modules'))\n        if subject:\n            subject = get_object_or_404(Subject,slug=subject)\n            courses = courses.filter(subject=subject)\n        context ={'subjects':subjects,'subject':subject,'courses':courses}",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "CourseDetailView",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class CourseDetailView(DetailView):\n    model = Course\n    template_name = \"courses/course/detail.html\"\n    def get_context_data(self,**kwargs):\n        context = super().get_context_data(**kwargs)\n        context['enroll_form'] = CourseEnrollForm(initial={'course':self.object})\n        return context\nclass StudentCourseListView(ListView):\n    model = Course\n    template_name = \"students/course/list.html\"",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "StudentCourseListView",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class StudentCourseListView(ListView):\n    model = Course\n    template_name = \"students/course/list.html\"\n    def get_queryset(self):\n        queryset = super().get_queryset()\n        return queryset.filter(students__in=[self.request.user])\nclass StuentCourseDetailView(DetailView):\n    model = Course\n    template_name = \"students/course/detail.html\"\n    def get_queryset(self):",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "StuentCourseDetailView",
+        "kind": 6,
+        "importPath": "courses.views",
+        "description": "courses.views",
+        "peekOfCode": "class StuentCourseDetailView(DetailView):\n    model = Course\n    template_name = \"students/course/detail.html\"\n    def get_queryset(self):\n        queryset = super().get_queryset()\n        return queryset.filter(students__in=[self.request.user])\n    def get_context_data(self,**kwargs):\n        context = super().get_context_data(**kwargs)\n        course =self.get_object()\n        if 'module_id' in self.kwargs:",
+        "detail": "courses.views",
+        "documentation": {}
+    },
+    {
+        "label": "StudentsConfig",
+        "kind": 6,
+        "importPath": "students.apps",
+        "description": "students.apps",
+        "peekOfCode": "class StudentsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'students'",
+        "detail": "students.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CourseEnrollForm",
+        "kind": 6,
+        "importPath": "students.forms",
+        "description": "students.forms",
+        "peekOfCode": "class CourseEnrollForm(forms.Form):\n    course = forms.ModelChoiceField(queryset=Course.objects.all(),widget=forms.HiddenInput)",
+        "detail": "students.forms",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "students.urls",
+        "description": "students.urls",
+        "peekOfCode": "urlpatterns = [\n    path('register/',StudentRegistrationView.as_view(),name='student_registration'),\n    path('enroll-course/',StudentEnrollCourseView.as_view(),name='student_enroll_course'),\n    path('courses/',StudentCourseListView.as_view(),name='student_course_list'),\n    path('course/<pk>/',StudentCourseDetailView.as_view(),name='student_course_detail'),\n    path('course/<pk>/<module_id>/',StudentCourseDetailView.as_view(),name='student_course_detail_module'),\n]",
+        "detail": "students.urls",
+        "documentation": {}
+    },
+    {
+        "label": "StudentRegistrationView",
+        "kind": 6,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "class StudentRegistrationView(CreateView):\n    template_name='students/student/registration.html'\n    form_class = UserCreationForm\n    success_url = reverse_lazy('student_course_list')\n    def form_valid(self, form):\n        result = super().form_valid(form)\n        cd = form.cleaned_data\n        user = authenticate(username=cd['username'],password=cd['password'])\n        login(self.request.user)\n        return result",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "StudentEnrollCourseView",
+        "kind": 6,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "class StudentEnrollCourseView(LoginRequiredMixin,FormView):\n    course = None\n    form_class = CourseEnrollForm\n    def form_valid(self, form):\n        self.course = form.cleaned_data['course']\n        self.course.students.add(self.request.user)\n        return super().form_valid(form)\n    def get_success_url(self):\n        return reverse_lazy('student_course_detail',args=[self.course.id])\nclass StudentCourseListView(ListView):",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "StudentCourseListView",
+        "kind": 6,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "class StudentCourseListView(ListView):\n    model = Course\n    template_name = \"students/course/list.html\"\n    def get_queryset(self):\n        queryset = super().get_queryset()\n        return queryset.filter(students__in=[self.request.user])\nclass StudentCourseDetailView(DetailView):\n    model = Course\n    template_name = \"students/course/detail.html\"\n    def get_queryset(self):",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "StudentCourseDetailView",
+        "kind": 6,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "class StudentCourseDetailView(DetailView):\n    model = Course\n    template_name = \"students/course/detail.html\"\n    def get_queryset(self):\n        queryset = super().get_queryset()\n        return queryset.filter(students__in=[self.request.user])\n    def get_context_data(self,**kwargs):\n        context = super().get_context_data(**kwargs)\n        course =self.get_object()\n        if 'module_id' in self.kwargs:",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'config.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
