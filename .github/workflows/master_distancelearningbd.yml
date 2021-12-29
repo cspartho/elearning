@@ -28,7 +28,7 @@ jobs:
           
       
       - name: Install dependencies
-        run: pipenv install --deploy --dev
+        run: pipenv install
         
       # Optional: Add step to run tests here (PyTest, Django test suites, etc.)
       
